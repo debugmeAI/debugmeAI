@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Gilang Fauzi (@debugmeAI)
 
-<!--
-**debugmeAI/debugmeAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Indonesia who builds tools using microcontrollers and desktop technologies.
 
-Here are some ideas to get you started:
+[![Status](https://img.shields.io/badge/status-active-brightgreen)]()  
+[![Tech](https://img.shields.io/badge/built%20with-Arduino%20%7C%20ESP32%20%7C%20.NET-blue)]()  
+[![Location](https://img.shields.io/badge/location-Indonesia-red)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+- 🧠 **ESP32 / Arduino** — Real-time control & monitoring  
+- 💻 **.NET (C# / WinForms)** — Desktop applications  
+- 🌐 **SQL & HTTP APIs** — Data logging & integration  
+
+---
+
+### 📫 Contact
+
+- 🔗 GitHub: [@debugmeAI](https://github.com/debugmeAI)  
+- ✉️ Email: gilangfauzi72@gmail.com
+
+---
+
+_Thanks for visiting my profile!_ 👇
