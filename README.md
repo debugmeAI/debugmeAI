@@ -2,9 +2,7 @@
 
 I'm a developer from Indonesia who builds tools using microcontrollers and desktop technologies.
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()  
-[![Tech](https://img.shields.io/badge/built%20with-Arduino%20%7C%20ESP32%20%7C%20.NET-blue)]()  
-[![Location](https://img.shields.io/badge/location-Indonesia-red)]()
+[![Status](https://img.shields.io/badge/status-active-brightgreen)]()  [![Tech](https://img.shields.io/badge/built%20with-Arduino%20%7C%20ESP32%20%7C%20.NET-blue)]()  [![Location](https://img.shields.io/badge/location-Indonesia-red)]()
 
 ---
 
